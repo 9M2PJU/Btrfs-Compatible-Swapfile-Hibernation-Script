@@ -1,12 +1,12 @@
 ---
 
 ## ⚠️ Disclaimer
+---
 
 This script is provided **AS-IS with NO WARRANTY**.  
 Use it entirely **at your own risk**. The author is **not responsible** for data loss, misconfiguration, or system failure.
 
 Make sure to review and understand the code before running it on your system.
----
 
 
 ## 🧊 Btrfs Swapfile + Hibernation Setup Script for Arch-based Systems
