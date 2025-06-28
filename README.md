@@ -94,9 +94,3 @@ Read the full blog post:
 
 ---
 
-## 📄 License
-
-MIT
-
----
-
