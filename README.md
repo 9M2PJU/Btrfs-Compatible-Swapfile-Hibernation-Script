@@ -96,7 +96,7 @@ Read the full blog post:
 
 ## 📄 License
 
-MIT © [9M2PJU / hamradio.my](https://hamradio.my)
+MIT
 
 ---
 
