@@ -1,8 +1,15 @@
+---
+
+## ⚠️ Disclaimer
+
+This script is provided **AS-IS with NO WARRANTY**.  
+Use it entirely **at your own risk**. The author is **not responsible** for data loss, misconfiguration, or system failure.
+
+Make sure to review and understand the code before running it on your system.
+---
 
 
-## 📄 `README.md`
-
-# 🧊 Btrfs Swapfile + Hibernation Setup Script for Arch-based Systems
+## 🧊 Btrfs Swapfile + Hibernation Setup Script for Arch-based Systems
 
 ![bash](https://img.shields.io/badge/script-bash-blue?style=flat-square)
 ![arch](https://img.shields.io/badge/distro-Arch%20Linux-blue?style=flat-square)
