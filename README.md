@@ -100,8 +100,3 @@ MIT © [9M2PJU / hamradio.my](https://hamradio.my)
 
 ---
 
-
----
-
-Let me know your GitHub username or repo name if you'd like this turned into a working `README.md` in a ready-to-push repo folder.
-```
