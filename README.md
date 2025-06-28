@@ -2,7 +2,6 @@
 
 ## 📄 `README.md`
 
-````markdown
 # 🧊 Btrfs Swapfile + Hibernation Setup Script for Arch-based Systems
 
 ![bash](https://img.shields.io/badge/script-bash-blue?style=flat-square)
@@ -12,7 +11,6 @@
 
 > Fully automated, Btrfs-friendly swapfile creation with hibernation support — built for [CachyOS](https://cachyos.org) and other Arch-based Linux distros.
 
----
 
 ## ⚡ What It Does
 
